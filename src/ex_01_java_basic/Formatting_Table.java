@@ -18,6 +18,12 @@ public class Formatting_Table {
         System.out.printf("9 * 8 = %d%n", 9 * 8);
         System.out.printf("9 * 9 = %d%n", 9 * 9);
         System.out.printf("9 * 10 = %d%n", 9 * 10);
+
+        //other exmaple
+        int age=20;
+        System.out.printf("My Age is %d%n",age);
+        System.out.printf("My age is %d%n",age+2);
+
     }
 }
 
