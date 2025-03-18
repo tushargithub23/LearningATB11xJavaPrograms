@@ -1,3 +1,5 @@
+package Practise_Task_programs;
+
 public class Task_math_func
 {
     public static void main(String[] args) {
