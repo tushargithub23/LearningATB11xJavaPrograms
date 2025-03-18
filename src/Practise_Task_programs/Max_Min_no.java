@@ -23,5 +23,7 @@ public class Max_Min_no
         int max_value=(no1>no2)?no1:no2;
         System.out.println("Max number is "+max_value);
         sc.close();
+        int min_value=(no1<no2)?no1:no2;
+        System.out.println("Minimum value is"+min_value);
     }
 }
