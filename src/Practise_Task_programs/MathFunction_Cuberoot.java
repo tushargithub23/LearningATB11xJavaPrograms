@@ -1,5 +1,6 @@
+package Practise_Task_programs;
 
-public class MathFunction
+public class MathFunction_Cuberoot
 {
     public static void main(String[] args)
     {
